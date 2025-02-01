@@ -4,7 +4,7 @@ title: AI学习笔记（零）
 date: 2025-02-01 23:16 +0800
 description:
 image:
-category:
+category: AI学习笔记
 tags:
 ---
 ### **第一阶段：基础夯实（4周）**
