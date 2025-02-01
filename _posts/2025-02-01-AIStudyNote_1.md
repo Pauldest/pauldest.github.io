@@ -1,13 +1,12 @@
 ---
 layout: post
-title: AI Start
+title: AI学习笔记（一）
 date: 2025-02-01 22:52 +0800
 description:
 image:
 category: AI学习笔记
 tags:
 ---
-## AI 学习笔记（一）
 
 ### **一、基础准备**
 1. **数学基础**
