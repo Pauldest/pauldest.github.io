@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI学习笔记（二） NLP模型总览
+title: 2_AI学习笔记 NLP模型总览
 date: 2025-02-02 19:20 +0800
 description:
 image:
