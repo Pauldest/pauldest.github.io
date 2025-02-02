@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI学习笔记_1
+title: AI学习笔记（一）
 date: 2025-02-01 22:52 +0800
 description:
 image:
