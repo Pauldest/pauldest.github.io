@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 0_AI学习笔记 学习计划表
+title: AI学习笔记_0 学习计划表
 date: 2025-02-01 23:16 +0800
 description:
 image:
