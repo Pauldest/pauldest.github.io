@@ -238,3 +238,5 @@ jekyll_compose:
       image:
       category:
       tags:
+
+math: true
