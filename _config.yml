@@ -8,8 +8,6 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-math: true
-
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
@@ -17,6 +15,8 @@ timezone:
 # ↓ --------------------------
 
 title: Tao Lu's Blog # the main title
+
+math: true
 
 tagline: A blog to record learning progress # it will display as the subtitle
 
