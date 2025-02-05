@@ -56,9 +56,9 @@ tags:
      - **多头注意力**：并行学习不同子空间的语义关系。  
      - **位置编码**：替代 RNN 的位置信息建模。  
    - **公式**（自注意力）：  
-     \[
-     \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-     \]
+        $$
+        \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+        $$
    - **影响**：成为现代 NLP 的基础架构，取代 RNN。
 
 ---
