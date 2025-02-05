@@ -57,11 +57,18 @@ tags:
      - **位置编码**：替代 RNN 的位置信息建模。  
    - **公式**（自注意力）：  
 
-        $$
-        \begin{equation}
-        \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
-        \end{equation}
-        $$
+$$
+\begin{equation}
+   \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+\end{equation}
+$$
+
+$$
+\begin{equation}
+  LaTeX_math_expression
+\end{equation}
+$$
+
 
    - **影响**：成为现代 NLP 的基础架构，取代 RNN。
 
