@@ -1,5 +1,7 @@
 # The Site Configuration
 
+math: true
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -15,8 +17,6 @@ timezone:
 # ↓ --------------------------
 
 title: Tao Lu's Blog # the main title
-
-math: true
 
 tagline: A blog to record learning progress # it will display as the subtitle
 
