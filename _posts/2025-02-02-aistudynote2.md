@@ -14,7 +14,7 @@ tags:
 
 #### **一、传统统计模型**
 1. **n-gram 模型**  
-   - **原理**：基于马尔可夫假设，用前 $$ n-1 $$ 个词预测当前词的概率（如二元模型 $$ P(w_i | w_{i-1}) $$ ）。  
+   - **原理**：基于马尔可夫假设，用前 $ n-1 $ 个词预测当前词的概率（如二元模型 $ P(w_i | w_{i-1}) $ ）。  
    - **应用**：早期语言模型、文本生成、拼写纠错。  
    - **局限**：无法建模长距离依赖，数据稀疏问题严重。
 
@@ -62,13 +62,6 @@ $$
    \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
 \end{equation}
 $$
-
-$$
-\begin{equation}
-  LaTeX_math_expression
-\end{equation}
-$$
-
 
    - **影响**：成为现代 NLP 的基础架构，取代 RNN。
 
